@@ -12,14 +12,14 @@ This project is part of the IBM Developing Back-End Apps course. It demonstrates
 
 ## Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Sanujen/IBM-Developing-Back-End-Apps.git
-   ```
+```bash
+git clone https://github.com/Sanujen/IBM-Developing-Back-End-Apps.git
+```
 
 2. Navigate to the project directory:
-  ```bash
-  cd IBM-Developing-Back-End-Apps
-  ```
+```bash
+cd IBM-Developing-Back-End-Apps
+```
 
 3. Install dependencies:
 ```bash
